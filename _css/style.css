@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color:#FF6347;
+    background-color:#e2e2e2;
     font-family:'Lato',Helvetica,Arial;
     font-size:15px;
     display:flex;
@@ -74,7 +74,8 @@ h3 {
     max-width:250px;
     font-family:'Hepta Slab', Helvetica, Arial;
     margin:0 auto 50px auto;
-    box-shadow: 2px 2px 2px 5px black;
+    box-shadow: 2px 1px 4px #b9b9b9;
+
 }
 .padaria-item a {
     display:flex;
@@ -94,15 +95,13 @@ h3 {
     line-height:50px;
     border-radius:25px;
     text-align:center;
-    color:#FFF;
+    color:#000;
     font-size:22px;
     cursor:pointer;
     margin-top:-40px;
     transition:all ease .2s;
 }
-.padaria-item a:hover .padaria-item--add {
-    text-decoration: underline;
-}
+
 .padaria-item--price {
     font-size:15px;
     color:#000;
@@ -280,6 +279,8 @@ h3 {
     margin-top:20px;
     border:2px solid #000;
     transition: all ease .2s;
+    font-weight: 600;
+    font-size: 20px;
 }
 #subir{
     position: fixed;
