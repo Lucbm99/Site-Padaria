@@ -297,7 +297,7 @@ h3 {
     }
 }
 
-@media (max-width:840px) {
+@media (max-width:480px) {
     body {
         flex-direction: column;
     }
