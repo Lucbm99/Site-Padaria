@@ -60,7 +60,7 @@ E, ao clicar no arquivo index.html, o arquivo abrirá no seu navegador, com o si
 
 
 ## ✒️ Licença 
-Consulte o arquivo LICENSE, para maiores detalhes.
+Consulte o arquivo LICENSE.md, para maiores detalhes.
 
 ## ✒️ Autores
 Site feito por mim - [Lucbm99](https://github.com/Lucbm99)
