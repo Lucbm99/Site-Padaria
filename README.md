@@ -60,7 +60,7 @@ E, ao clicar no arquivo index.html, o arquivo abrirá no seu navegador, com o si
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Linguagem de marcação de texto utilizada.
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Folha de estilos utilizada.
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Utilizado para animações e eventos da página. 
-* [jQuery] (https://jquery.com/) - Utilizado para animações e eventos da página. 
+* [jQuery](https://jquery.com/) - Utilizado para animações e eventos da página. 
 
 
 ## ✒️ Licença 
